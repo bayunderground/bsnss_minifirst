@@ -136,3 +136,18 @@ Skills можно вызывать явно по имени или исполь�
 ## Лицензия и статус
 
 См. файл лицензии, если он будет добавлен в репозиторий. Документы являются рабочей спецификацией проекта и могут уточняться владельцем.
+
+## Evidence quality standard (v0.2)
+
+Research Skills now share one evidence standard. The key distinction is between:
+- evidence that a problem exists;
+- evidence that customers spend money on current alternatives;
+- behavioral evidence that a specific customer wants this proposed solution at a disclosed price;
+- actual payment;
+- repeat payment and usage.
+
+The shared C0–C5 scale, source-independence ledger, negative-evidence requirement, and decision gates are defined in IDEA_EVALUATION.md, AGENTS.md, and OPPORTUNITY_RESEARCH_WORKFLOW.md. Individual Skills apply these rules to discovery, market research, evaluation, and acquisition.
+
+A count of URLs is not a count of independent sources. Competitor pricing is not proof of sales or profitability. Public complaints are not proof of willingness to pay. Recommendations such as VALIDATE or BUILD are not permission to contact people, spend money, publish, or develop.
+
+See the v0.2 additions in each Skill for task-specific requirements.
