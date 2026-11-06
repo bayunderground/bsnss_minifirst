@@ -137,17 +137,17 @@ Skills можно вызывать явно по имени или исполь�
 
 См. файл лицензии, если он будет добавлен в репозиторий. Документы являются рабочей спецификацией проекта и могут уточняться владельцем.
 
-## Evidence quality standard (v0.2)
+## Стандарт качества доказательств (v0.2)
 
-Research Skills now share one evidence standard. The key distinction is between:
-- evidence that a problem exists;
-- evidence that customers spend money on current alternatives;
-- behavioral evidence that a specific customer wants this proposed solution at a disclosed price;
-- actual payment;
-- repeat payment and usage.
+Все исследовательские Skills используют единый стандарт. В нём отдельно рассматриваются:
+- подтверждение существования проблемы;
+- реальные расходы клиентов на текущие альтернативы;
+- поведенческий интерес к конкретному предложению при известной цене;
+- фактическая оплата;
+- повторные платежи и использование.
 
-The shared C0–C5 scale, source-independence ledger, negative-evidence requirement, and decision gates are defined in IDEA_EVALUATION.md, AGENTS.md, and OPPORTUNITY_RESEARCH_WORKFLOW.md. Individual Skills apply these rules to discovery, market research, evaluation, and acquisition.
+Общая шкала C0–C5, учёт независимости источников, обязательный поиск свидетельств против и этапные ограничения определены в IDEA_EVALUATION.md, AGENTS.md и OPPORTUNITY_RESEARCH_WORKFLOW.md. Каждый Skill применяет эти правила к своей задаче.
 
-A count of URLs is not a count of independent sources. Competitor pricing is not proof of sales or profitability. Public complaints are not proof of willingness to pay. Recommendations such as VALIDATE or BUILD are not permission to contact people, spend money, publish, or develop.
+Количество URL не равно количеству независимых источников. Тариф конкурента не доказывает продажи или прибыль. Публичные жалобы не доказывают готовность платить. Рекомендации VALIDATE или BUILD не разрешают связываться с людьми, тратить деньги, публиковать материалы или начинать разработку.
 
-See the v0.2 additions in each Skill for task-specific requirements.
+Подробные требования находятся в дополнениях v0.2 соответствующих Skills.
