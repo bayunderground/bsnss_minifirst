@@ -2,8 +2,8 @@
 
 # Product Studio — Main Agent Instructions
 
-**Version:** 0.1  
-**Status:** Initial  
+**Version:** 0.2  
+**Status:** Active — evidence standard v0.2  
 **Primary environment:** Local Ubuntu  
 **Primary agent:** OpenCode  
 **Language:** Russian by default
